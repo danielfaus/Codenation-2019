@@ -27,4 +27,4 @@ the script runs.
 
 ### Running
 If all is right, the script requests create the JSON file, decrypts
-the message, updates the message and sends it to the site.
+the message and updates the file and sends it to the site.
