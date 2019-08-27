@@ -7,9 +7,7 @@ __maintainer__ = "Daniel Faustino"
 __email__ = "daniel.fsantos@protonmail.com"
 __status__ = "dev"
 
-# import request and post url and token from another file
 from config import  url_post, url_request, token
-# importing libraries
 import urllib3                                              # library to HTTP request
 import json                                                 # library to JSON handles
 import hashlib                                              # library to hash SHA1
